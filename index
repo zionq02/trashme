@@ -1,0 +1,41 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+<title>Sharks on Shark Tank : Robert Herjavec</title>
+<meta charset="utf-8">
+</head>
+<body>
+<header>
+     <h1>Sharks on Shark Tank</h1
+</header>
+<nav>
+  <a href="index.html">Robert Herjavec</a>
+   <a href="o'leary.html">Kevin O'Leary</a>
+   <a href="cuban.html">Mark Cuban</a>
+</nav>
+<main>       
+ <div>
+<img src="https://static.theceomagazine.net/wp-content/uploads/2024/03/22113319/Robert-Herjavec-cover-storyx3.jpeg" width="450" alt="Robert Herjavec" 
+     </div>
+   <h2>Robert Herjavec</h2>
+   <div>
+     Born: September 14, 1962
+   </div>
+   <div>
+     Primarily Works for: CEO of The Herjavec Group
+   </div>
+   <div>
+   University: University of Toronto
+   </div>
+   <h4>Biography<h4>
+     <p>Robert Herjavec is a Croatian-Canadian business man, that is a panelist on the show Shark Tank and the Dragons' Den. </p> 
+     <h4>Notable Contribution</h4>
+     <ul>
+       <li>1990 - Founded BRAK systems, a Canadian integrator of internet security software. from the basement of his home.</li>
+       <li>2003 - Robert founded the Herjavec Group, a secuirty solutions integrator, reseller, ad managed service provider.</li>
+       <li>2006 - Appointed to the panel of venture capitlists on Dragons' Den. </li>
+     </ul>
+     <h4>Famous Quote:</h4>
+     <blockquote>"A goal without a deadline is just a dream."</blockquote>
+     <br>
+     </main>
